@@ -1,2 +1,2 @@
-# Bulk Mail Automation 
+# Bulk Mail Automation Through Script
 
